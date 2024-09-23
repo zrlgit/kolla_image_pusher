@@ -63,8 +63,8 @@ quay.io/openstack.kolla/gnocchi-statsd:2024.1-rocky-9
 quay.io/openstack.kolla/manila-data:2024.1-rocky-9
 quay.io/openstack.kolla/designate-sink:2024.1-rocky-9
 quay.io/openstack.kolla/manila-share:2024.1-rocky-9
-quay.io/openstack.kolla/murano-api:2024.1-rocky-9
-quay.io/openstack.kolla/murano-engine:2024.1-rocky-9
+#quay.io/openstack.kolla/murano-api:2024.1-rocky-9
+#quay.io/openstack.kolla/murano-engine:2024.1-rocky-9
 quay.io/openstack.kolla/freezer-scheduler:2024.1-rocky-9
 quay.io/openstack.kolla/freezer-api:2024.1-rocky-9
 quay.io/openstack.kolla/ironic-inspector:2024.1-rocky-9
