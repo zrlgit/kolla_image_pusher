@@ -11,7 +11,7 @@ quay.io/openstack.kolla/opensearch-dashboards:2024.1-rocky-9
 quay.io/openstack.kolla/prometheus-elasticsearch-exporter:2024.1-rocky-9
 quay.io/openstack.kolla/etcd:2024.1-rocky-9
 quay.io/openstack.kolla/hacluster-pacemaker-remote:2024.1-rocky-9
-quay.io/openstack.kolla/tgtd:2024.1-rocky-9
+#quay.io/openstack.kolla/tgtd:2024.1-rocky-9
 quay.io/openstack.kolla/skyline-apiserver:2024.1-rocky-9
 quay.io/openstack.kolla/skyline-console:2024.1-rocky-9
 quay.io/openstack.kolla/prometheus-openstack-exporter:2024.1-rocky-9
