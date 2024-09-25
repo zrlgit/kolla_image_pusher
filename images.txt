@@ -114,13 +114,13 @@ quay.io/openstack.kolla/swift-container:2024.1-rocky-9
 quay.io/openstack.kolla/swift-object:2024.1-rocky-9
 quay.io/openstack.kolla/swift-object-expirer:2024.1-rocky-9
 quay.io/openstack.kolla/swift-rsyncd:2024.1-rocky-9
-quay.io/openstack.kolla/ubuntu-source-kolla-toolbox:2024.1-rocky-9
+#quay.io/openstack.kolla/ubuntu-source-kolla-toolbox:2024.1-rocky-9
 quay.io/openstack.kolla/gnocchi-api:2024.1-rocky-9
 quay.io/openstack.kolla/proxysql:2024.1-rocky-9
 quay.io/openstack.kolla/aodh-evaluator:2024.1-rocky-9
 quay.io/openstack.kolla/trove-api:2024.1-rocky-9
 quay.io/openstack.kolla/aodh-api:2024.1-rocky-9
-quay.io/openstack.kolla/ubuntu-source-cron:2024.1-rocky-9
+#quay.io/openstack.kolla/ubuntu-source-cron:2024.1-rocky-9
 quay.io/openstack.kolla/trove-conductor:2024.1-rocky-9
 quay.io/openstack.kolla/trove-taskmanager:2024.1-rocky-9
 quay.io/openstack.kolla/trove-guestagent:2024.1-rocky-9
