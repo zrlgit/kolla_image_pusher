@@ -81,7 +81,7 @@ quay.io/openstack.kolla/opensearch-dashboards:2024.1-rocky-9
 quay.io/openstack.kolla/prometheus-elasticsearch-exporter:2024.1-rocky-9
 quay.io/openstack.kolla/etcd:2024.1-rocky-9
 quay.io/openstack.kolla/hacluster-pacemaker-remote:2024.1-rocky-9
-quay.io/openstack.kolla/tgtd:2024.1-rocky-9
+#quay.io/openstack.kolla/tgtd:2024.1-rocky-9
 quay.io/openstack.kolla/skyline-apiserver:2024.1-rocky-9
 quay.io/openstack.kolla/skyline-console:2024.1-rocky-9
 quay.io/openstack.kolla/prometheus-openstack-exporter:2024.1-rocky-9
@@ -135,10 +135,10 @@ quay.io/openstack.kolla/gnocchi-statsd:2024.1-rocky-9
 quay.io/openstack.kolla/manila-data:2024.1-rocky-9
 quay.io/openstack.kolla/designate-sink:2024.1-rocky-9
 quay.io/openstack.kolla/manila-share:2024.1-rocky-9
-quay.io/openstack.kolla/murano-api:2024.1-rocky-9
-quay.io/openstack.kolla/murano-engine:2024.1-rocky-9
-quay.io/openstack.kolla/freezer-scheduler:2024.1-rocky-9
-quay.io/openstack.kolla/freezer-api:2024.1-rocky-9
+#quay.io/openstack.kolla/murano-api:2024.1-rocky-9
+#quay.io/openstack.kolla/murano-engine:2024.1-rocky-9
+#quay.io/openstack.kolla/freezer-scheduler:2024.1-rocky-9
+#quay.io/openstack.kolla/freezer-api:2024.1-rocky-9
 quay.io/openstack.kolla/ironic-inspector:2024.1-rocky-9
 quay.io/openstack.kolla/ironic-neutron-agent:2024.1-rocky-9
 quay.io/openstack.kolla/ironic-conductor:2024.1-rocky-9
