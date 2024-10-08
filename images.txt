@@ -4,6 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#2024.10.08
 quay.io/openstack.kolla/haproxy:2024.1-rocky-9
 quay.io/openstack.kolla/kolla-toolbox:2024.1-rocky-9
 quay.io/openstack.kolla/cron:2024.1-rocky-9
