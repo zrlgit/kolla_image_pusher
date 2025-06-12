@@ -2,7 +2,23 @@
 #支持私库1
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #registry.k8s.io/kwok/cluster:v0.4.0-k8s.v1.28.0
-ghcr.io/nextcloud-releases/all-in-one:latest
+ghcr.io/nextcloud-releases/aio-apache:latest
+ghcr.io/nextcloud-releases/aio-postgresql:latest
+ghcr.io/nextcloud-releases/aio-nextcloud:latest
+ghcr.io/nextcloud-releases/aio-notify-push:latest
+ghcr.io/nextcloud-releases/aio-redis:latest
+ghcr.io/nextcloud-releases/aio-collabora:latest
+ghcr.io/nextcloud-releases/aio-talk:latest
+ghcr.io/nextcloud-releases/aio-talk-recording:latest
+ghcr.io/nextcloud-releases/aio-borgbackup:latest
+ghcr.io/nextcloud-releases/aio-watchtower:latest
+ghcr.io/nextcloud-releases/aio-domaincheck:latest
+ghcr.io/nextcloud-releases/aio-clamav:latest
+ghcr.io/nextcloud-releases/aio-onlyoffice:latest
+ghcr.io/nextcloud-releases/aio-imaginary:latest
+ghcr.io/nextcloud-releases/aio-fulltextsearch:latest
+ghcr.io/nextcloud-releases/aio-docker-socket-proxy:latest
+ghcr.io/nextcloud-releases/aio-whiteboard:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
